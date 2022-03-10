@@ -1,0 +1,35 @@
+
+* {
+    background-color: aqua;
+}
+h1 {
+    text-align: center;
+    color: red;
+
+}
+a {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+}
+#garlic {
+   height: auto;
+   width: 500px;
+   border-style: solid;
+}
+h3 {
+    color: blue;
+    text-decoration: underline;
+}
+#sweet {
+    border-style: solid;
+ }
+#south {
+    height: auto;
+   width: 500px;
+   border-style: solid;
+  }
+ div {
+     text-align: center;
+ }
+ 
