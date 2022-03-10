@@ -50,4 +50,10 @@ h3 {
  .center,.right,.left {
      margin-bottom: 20px;
  }
+ p {
+     border-style: groove;
+     border-color: black;
+     display: inline-flex;
+     margin-left: 200px;
+ }
  
