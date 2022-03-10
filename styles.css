@@ -31,5 +31,23 @@ h3 {
   }
  div {
      text-align: center;
+  }
+  .right,.lright{
+      margin-left: 30px;
+  }
+ .right {
+     margin-right: 70px;
+ }
+ .center {
+     margin-right: 60px;
+ }
+ .lright {
+     margin-right: 150px;
+ }
+ .lcenter {
+      margin-right: 200px;
+ }
+ .center,.right,.left {
+     margin-bottom: 20px;
  }
  
