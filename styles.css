@@ -12,6 +12,9 @@ a {
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: solid;
 }
+a:hover{
+    color: blue;
+}
 #garlic {
    height: auto;
    width: 500px;
