@@ -34,7 +34,9 @@ h3 {
   }
  div {
      text-align: center;
-  }
+     height: auto;
+    width: auto;
+    }
   .right,.lright{
       margin-left: 30px;
   }
@@ -81,3 +83,4 @@ h3 {
     border-style: dotted;
     
  }
+ 
