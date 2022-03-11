@@ -4,7 +4,7 @@
 }
 h1 {
     text-align: center;
-    color: red;
+    color: rgb(235, 6, 6);
 
 }
 a {
@@ -51,9 +51,15 @@ h3 {
      margin-bottom: 20px;
  }
  p {
-     border-style: groove;
-     border-color: black;
-     display: inline-flex;
-     margin-left: 200px;
+     text-align: center;
+     border-top-style: solid;
+     border-bottom-style:solid ;
+     padding: 10px;
+     border
+ }
+ hr {
+     
+     border-color: rgb(7, 85, 230);
+     
  }
  
