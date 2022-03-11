@@ -50,16 +50,31 @@ h3 {
  .center,.right,.left {
      margin-bottom: 20px;
  }
- p {
+ p.inside {
      text-align: center;
      border-top-style: solid;
      border-bottom-style:solid ;
      padding: 10px;
-     border
  }
  hr {
      
      border-color: rgb(7, 85, 230);
      
  }
- 
+ .gar {
+     padding: 20px;
+     margin-left: 40px;
+   padding-bottom: 40px;
+ }
+ .swe,.sou {
+     margin-left: 100px;
+     padding: 20px;
+      }   
+ .gar,.sou,.swe {
+    display: inline-flex;
+    width: 200px;
+    height: auto;
+    text-align: center;
+    border-style: dotted;
+    
+ }
